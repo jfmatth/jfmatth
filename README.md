@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Kubernetes clusters using Flux CD and Flux Helm
+- 🌱 I’m currently learning Azure networking
+
+
 <!--
 **jfmatth/jfmatth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
