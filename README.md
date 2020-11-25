@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Kubernetes clusters using Flux CD and Flux Helm
+- 🔭 I’m currently working on my Kubernetes clusters using ArgoCD
 - 🌱 I’m currently learning Azure networking
 
 
