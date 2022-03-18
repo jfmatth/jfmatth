@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Kubernetes clusters using ArgoCD
+- 🔭 I’m currently working on my Kubernetes clusters using Helm
 - 🌱 I’m currently learning Azure networking
 
 
