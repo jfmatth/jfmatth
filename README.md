@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⚡ Looking for work
 - 🔭 I’m currently working on my Kubernetes clusters using Helm
 - 🌱 I’m currently learning Azure networking
 
