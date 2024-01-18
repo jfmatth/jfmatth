@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- ⚡ Looking for work
+- ⚡ Giving a talk on PIKU at Scale21 this year in Pasadena, CA
+- ⚡ **Looking for work**
 - 🔭 I’m currently working on my Kubernetes clusters using Helm
 - 🌱 I’m currently learning Azure networking
 
