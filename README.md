@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Giving a talk on PIKU at Scale21 this year in Pasadena, CA
-- ⚡ **Looking for work**
+- ⚡ Excited to start a job at Public Storage as Director, Cloud Opertions.
 - 🔭 I’m currently working on my Kubernetes clusters using Helm
 - 🌱 I’m currently learning Azure networking
 
