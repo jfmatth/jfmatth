@@ -2,8 +2,6 @@
 
 - ⚡ Excited to start a job at Public Storage as Director, Cloud Opertions.
 - 🔭 I’m currently working on my Kubernetes clusters using Helm
-- 🌱 I’m currently learning Azure networking
-
 
 <!--
 **jfmatth/jfmatth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
