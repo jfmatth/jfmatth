@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- ⚡ Excited to start a job at Public Storage as Director, Cloud Opertions.
+- ⚡ Excited to start a job at Public Storage as Director, Cloud Operations.
 - 🔭 I’m currently working on my Kubernetes clusters using Helm
+- Gave a fun talk on PIKU at Scale21x this year.
+
 
 <!--
 **jfmatth/jfmatth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
